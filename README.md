@@ -2,7 +2,7 @@
 
 
 
-<img src="imagens/AppHelpDesk.gif"/>
+<img src="imagens/sendEmail.gif"/>
 
 <a href="#sobre" >Sobre/ </a>
 <a href="#features" >Features/ </a>
