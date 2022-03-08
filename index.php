@@ -19,7 +19,7 @@
 		<section class="row">
 			<div class="col-md-12">
 				<div class="card-body font-weight-bold">
-					<form action="processa_envio.php" method="post">
+					<form action="processaEnvio.php" method="post">
 						<div class="form-group">
 							<label for="para">Para</label>
 							<input name="para" type="text" class="form-control" id="para" placeholder="joao@dominio.com.br">
